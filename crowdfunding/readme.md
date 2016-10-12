@@ -145,5 +145,3 @@ This project is about so much more than just our personal political opinions, bu
 - Rohan worked with the Liberation Technology program at Stanford, deployed an SMS-based technology to ~200k people in India to help them participate in democracy more easily.
 - David has helped campaign for progressive immigration to double-down on America's incredible talent (its greatest strength!).
 - David advised a team of state lawmakers to bring Equity Crowdfunding to economically disadvantaged areas in Texas to boost small business entrepreneurship.
-- David has worked since 2013 to create an issue-driven group problem solving platform. Modeled after bug tracking software, wiki's & Reddit-style crowd aggregated content, the vision is an organizing tool for people to coordinate to solve the issues they care most about around them.
-- David served on his student government at his alma mater, Bard College at Simon's Rock.

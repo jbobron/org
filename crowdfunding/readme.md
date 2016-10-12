@@ -46,7 +46,7 @@ This is because representation in Liquid Democracy works differently than how we
 
 ### No more elections
 
-Right now, a candidate who gets only 51% of their districts vote still goes to the legislature to represent 100% of the people, even if you didn't personally vote for them.
+Right now, a candidate who gets only 51% of their district's vote still goes to the legislature to represent 100% of the people, even if you didn't personally vote for them.
 
 This leads to incredibly high-stakes campaigns. You either win, and get it all, or you lose, and go home with nothing. No wonder campaigns can become so nasty. No wonder candidates often take campaign funding from groups they'd otherwise rather not deal with.
 

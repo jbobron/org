@@ -28,7 +28,7 @@ Liquid Democracy is a hybrid of Representative and Direct Democracy that promise
 
 Right now, "democracy" means once every few years, citizens can go to their polling place to pick one of a few options as political representatives, who then vote for them in the legislature. In other words, for 99.9% of Americans, democracy means choosing simply between Candidate A or Candidate B. The range of our political perspectives is reduced down into a single binary decision.
 
-But lately, as our country has become incredibly polarized, democracy has become "my team versus your team". Campaigns are dominated with messaging attacking the other side as deceptive, corrupt, or stupid. Often, we're expected to make the choice between the "lesser of two evils", but what sort of choice is that? Tribalism and fear have taken over, while the issues that most affect us have taken the back-seat.
+But lately, as our country has become incredibly polarized, democracy has become "my team versus your team". Campaigns are dominated with messaging attacking the other side as deceptive, corrupt, or just plain stupid. Often, we're expected to make the choice between the "lesser of two evils", but what sort of choice is that? Tribalism and fear have taken over, while the issues that most affect us have taken the back-seat.
 
 ### A Liquid Democracy works differently.
 
@@ -52,7 +52,7 @@ This leads to incredibly high-stakes campaigns. You either win, and get it all, 
 
 And it's this systemic pressure that entrenches a two-party duopoly. Individuals want their vote to have an impact, but strategy suggests that picking a third party candidate means "wasting your vote".
 
-Liquid Democracy is different. You pick a delegate that's right for you. No one else picks for you. And your delegate has their own delegate, who has their own delegate, who has their own delegate. The creates a more organic network of trust, where individuals can choose to vote on the issues they feel knowledgeable about, rather than an extreme concentration of power in the hands of one-size-fits-all politicians.
+Liquid Democracy is different. You pick a delegate that's right for you. No one else picks for you. And your delegate has their own delegate, who has their own delegate, who has their own delegate. This creates a more organic network of trust, where individuals can choose to vote on the issues they feel knowledgeable about, rather than an extreme concentration of power in the hands of one-size-fits-all politicians.
 
 [![](images/delegation-demo.png)](https://demo.liquid.vote)
 
@@ -132,7 +132,7 @@ But our true goal, what really motivates us, is to make inroads at the federal l
 
 ## When?
 
-We like to move fast, and we'd like to bring Liquid Democracy to life as soon as possible. But it seems unrealistic to set expectations sooner than 2 years from now. If it's really a good idea, it should be around for decades, and we don't want to compromise that by setting unrealistic expectations and taking on more than our resources allow.
+We like to move fast, and we'd like to bring Liquid Democracy to life as soon as possible. But it seems unrealistic to set expectations sooner than 2 years from now. If it's really a good idea, it should be around for decades or more, and we don't want to compromise that by setting unrealistic expectations and taking on more than our resources allow.
 
 Quality software systems aren't created overnight. Political movements rarely appear out of nowhere. And legislative elections only come once a year, and in most places every other year. (If you or someone you know is a candidate or elected official who'd like to pilot Liquid Democracy to jumpstart the process, please do [reach out](mailto:info@liquid.vote).)
 

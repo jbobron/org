@@ -136,6 +136,8 @@ We like to move fast, and we'd like to bring Liquid Democracy to life as soon as
 
 Quality software systems aren't created overnight. Political movements rarely appear out of nowhere. And legislative elections only come once a year, and in most places every other year. (If you or someone you know is a candidate or elected official who'd like to pilot Liquid Democracy to jumpstart the process, please do [reach out](mailto:info@liquid.vote).)
 
+Our plan is to elect a San Francisco city supervisor in 2018.
+
 ## What campaigns and civic initiatives have we been a part of?
 
 This project is about so much more than just our personal political opinions, but if you're curious, here are initiatives we've given blood, sweat, and tears to in the past:

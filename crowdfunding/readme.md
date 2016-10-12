@@ -4,7 +4,9 @@
 
 Hi,
 
-![](photo-of-us.png)
+![](images/davidernst.jpeg)
+![](images/jaredscheib.jpeg)
+![](images/rohandixit.jpeg)
 
 We're David Ernst, Jared Scheib, and Rohan Dixit.
 
@@ -32,13 +34,13 @@ But lately, as our country has become incredibly polarized, democracy has become
 
 As a start, voters are given the option to vote directly on any piece of legislation, if they so choose.
 
-![](screenshot-of-legislation-list.png)
+<img src="images/legislation.png" width="487"  />
 
 But who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
 
 And so Liquid Democracy lets you pick other people to vote on your behalf too. But an important difference is that you're no longer stuck picking from just a few choices on a ballot. Instead, you can pick *anyone* who lives in your district. Anyone you already know and trust. If you could pick anyone to make policy decisions — and they don't even have to quit their jobs — who might you choose? With your permission, they can now vote on your behalf.
 
-![](wireframe-of-picking-a-delegate.png)
+<!-- ![](wireframe-of-picking-a-delegate.png) -->
 
 This is because representation in Liquid Democracy works differently than how we currently elect people. Instead of voting as a district on just a single Congressperson to try to "represent" the interests of nearly a million people, Liquid Democracy lets each person come to their own conclusion about who is best to represent them.
 
@@ -52,7 +54,7 @@ And it's this systemic pressure that entrenches a two-party duopoly. Individuals
 
 Liquid Democracy is different. You pick a delegate that's right for you. No one else picks for you. And your delegate has their own delegate, who has their own delegate, who has their own delegate. The creates a more organic network of trust, where individuals can choose to vote on the issues they feel knowledgeable about, rather than an extreme concentration of power in the hands of one-size-fits-all politicians.
 
-![](delegation-simulation-screenshot.png)
+[![](images/delegation-demo.png)](https://demo.liquid.vote)
 
 You can play with this live simulation we've created to see first hand just how voter delegation works: [demo.liquid.vote](https://demo.liquid.vote)
 
@@ -66,11 +68,11 @@ In a Liquid Democracy, we no longer have to worry about "bad politicians get ele
 
 If you want to sit back and leave your vote on autopilot, you can do that.
 
-If you want to be more active to curate your political representative, you can do that. You could even go so far as to vote directly on each piece of legislation, if that's you.
+If you want to be more active to curate your political representative, you can do that too. You could even go so far as to vote directly on each piece of legislation, if that's you.
 
 Liquid Democracy gives each individual the freedom to choose their personal balance between convenient representation and direct involvement.
 
-![You decide between convenience vs authenticity for your political voice](convenience-vs-authenticity-gradient.png)
+![You decide between convenience vs authenticity for your political voice](images/convenience-vs-authenticity.png)
 
 ## What about the other functions of government?
 
@@ -80,11 +82,11 @@ Liquid Democracy is primarily concerned with creating legislation. It doesn't di
 
 Liquid Democracy will take 3 requirements:
 
-  Step 1 is building the technology that enables our sophisticated digital delegation system. This needs to be easy to use, widely accessible, trustable, and secure. This is underway, and if you have skills in this area, we'd love for [you to join us](https://github.com/liquidvote).
+  ***Step 1*** is building the technology that enables our sophisticated digital delegation system. This needs to be easy to use, widely accessible, trustable, and secure. This is underway, and if you have skills in this area, we'd love for [you to join us](https://github.com/liquidvote).
 
-  Step 2 is reaching a critical mass of citizens interested in a better way of doing politics. We've started this on a limited scale, and you can join too at https://join.liquid.vote.
+  ***Step 2*** is reaching a critical mass of citizens interested in a better way of doing politics. We've started this on a limited scale, and you can join too at https://join.liquid.vote.
 
-  Step 3 is where it begins to have a real-world impact. We'll need to elect new Liquid Democracy Candidates to legislative office, tasked with one job only: to vote on each and every bill exactly according to their district's wishes.
+  ***Step 3*** is where it begins to have a real-world impact. We'll need to elect new Liquid Democracy Candidates to legislative office, tasked with one job only: to vote on each and every bill exactly according to their district's wishes.
 
   This means that each district can organically choose to adopt Liquid Democracy when they decide, rather than it being mandated top-down through Constitutional amendments.
 
@@ -104,7 +106,7 @@ We've been working on this on our own time and money for the last few months. Bu
 
 All of the software is free and open-source. You can inspect it, run it yourself, or remix it into a derivative project.
 
-No software is ever free of defects, but as Linus Torvalds, creator of the Linux kernel famously said, "given enough eyeballs, all bugs are shallow".
+No software is ever free of defects, but as Linus Torvalds, creator of the Linux kernel, famously said, "given enough eyeballs, all bugs are shallow".
 
 ### How are individual identities verified? How can we ensure only one-vote-per-person?
 
@@ -112,7 +114,7 @@ We plan to start on the city level initially, so we have the flexibility of in-p
 
 As a start, we can adopt existing voting laws to register voters, validating them only after they show proof of residency.
 
-We'd also like to create a public challenge to strengthen this. The idea is that if anyone is able to create multiple validated accounts, prove it, and help us patch the hole by responsibly disclosing the method, they'll be rewarded with a few thousand dollars. This encourages well-intentioned people to help us all strengthen the system together.
+We'd also like to create a public challenge to strengthen this. The idea is that if anyone is able to create multiple validated accounts, prove it, and help us patch the hole by responsibly disclosing the method. And get rewarded with a few thousand dollars. This encourages well-intentioned people to help us all strengthen the system together.
 
 Trustable identity in digital systems is an evolving area of innovation. There have been many many ideas in this space, a dozen of which have [been collected here](https://github.com/liquidvote/liquid-api/issues/7#issuecomment-248069850). Many other innovators continue to come up with novel solutions.
 

@@ -138,7 +138,7 @@ This lets any voter go and ensure that their vote was entered and counted correc
 
 We think it makes the most sense to set our initial goal at the city level. We see San Francisco as an attractive choice, since the 3 of us live here, it's a city that welcomes novel experimentation, and it birthed other major tech innovations like Twitter, Airbnb, Instagram, Uber, and Lyft.
 
-But our true goal, what really motivates us, is to make inroads at the federal level.
+But our true goal, what really motivates us, is to make inroads at the national level.
 
 ## When?
 

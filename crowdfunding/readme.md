@@ -12,7 +12,7 @@ We're David Ernst, Jared Scheib, and Rohan Dixit.
 
 At heart, we're technologists. We believe in the future, and we work each day to create new technology to make our friends' and families' lives better.
 
-We've also been politically involved. We've phone banked and canvassed. We've donated and shared all sorts of issue-driven campaigns. [See below about issues we've fought for.]
+We've also been politically involved. We've phone banked and canvassed. We've donated and shared all sorts of issue-driven campaigns.
 
 But we've also come up against more systemic problems. And we're not alone. Congressional approval ratings are at an all time low. All across America, people complain that politics is broken.
 
@@ -155,5 +155,5 @@ This project is about so much more than just our personal political opinions, bu
 - David was a part of Larry Lessig's Rootstrikers and Mayday.us movements for fundamental campaign finance reform.
 - Jared and Rohan dedicated hundreds of hours to promote Bernie Sanders, a progressive candidate with decades of political experience independent of the two party system.
 - Rohan worked with the Liberation Technology program at Stanford, deployed an SMS-based technology to ~200k people in India to help them participate in democracy more easily.
-- David has helped campaign for progressive immigration reform to double-down on America's incredible talent (its greatest strength!).
+- David has helped campaign for progressive immigration reform to double-down on America's incredible talent (its greatest strength).
 - David advised a team of state lawmakers to bring Equity Crowdfunding to economically disadvantaged areas in Texas to boost small business entrepreneurship.

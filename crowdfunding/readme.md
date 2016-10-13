@@ -32,9 +32,9 @@ But lately, as our country has become incredibly polarized, democracy has become
 
 ### A Liquid Democracy works differently.
 
-As Abraham Lincoln immortalized, it is Americans' responsibility to ensure that "government of the people, by the people, for the people, shall not perish from the earth".
+As Abraham Lincoln immortalized, it is Americans' responsibility to ensure that "*government of the people, by the people, for the people, shall not perish from the earth*".
 
-As a start, voters are given the option to vote directly on any piece of legislation, if they so choose.
+And so as a start, voters are given the option to vote directly on any piece of legislation, if they so choose.
 
 <img src="images/legislation.png" width="487"  />
 

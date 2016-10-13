@@ -110,6 +110,8 @@ And that's why we've started this crowdfunding campaign. We need your help.
 
 We've been working on this on our own time and money for the last few months. But if we want the project to really flourish, to afford the talent and infrastructure it needs, we need more than just what we can offer ourselves.
 
+Even if you can only contribute $10, we'd love for you to join us.
+
 ## How about security? How can we trust a system like this?
 
 All of the software is free and open-source. You can inspect it, run it yourself, or remix it into a derivative project.

@@ -96,7 +96,7 @@ Liquid Democracy will take 3 requirements:
 
 <div style="text-align:right"><img src="images/elected-leaders.jpg" width=500 /></div>
 
-  This means that each district can organically choose to adopt Liquid Democracy when they decide, rather than it being mandated top-down through Constitutional amendments.
+  This means that each district can choose to adopt Liquid Democracy when they decide, rather than it being mandated top-down through Constitutional amendments.
 
   The real beauty of this approach is that it means with just one seat, we can see how Liquid Democracy works out in practice, when it still has relatively low impact. Rather than trying to radically change the whole system all at once. And if all goes well, then we can go for two seats, and then three...
 

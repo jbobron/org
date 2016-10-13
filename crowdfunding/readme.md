@@ -86,9 +86,15 @@ Liquid Democracy will take 3 requirements:
 
   ***Step 1*** is building the technology that enables our sophisticated digital delegation system. This needs to be easy to use, widely accessible, trustable, and secure. This is underway, and if you have skills in this area, we'd love for [you to join us](https://github.com/liquidvote).
 
+![](images/code.jpg)
+
   ***Step 2*** is reaching a critical mass of citizens interested in a better way of doing politics. We've started this on a limited scale, and you can join too at https://join.liquid.vote.
 
+![](images/critical-mass.png)
+
   ***Step 3*** is where it begins to have a real-world impact. We'll need to elect new Liquid Democracy Candidates to legislative office, tasked with one job only: to vote on each and every bill exactly according to their district's wishes.
+
+<img src="images/elected-leaders.jpg" width=500 />
 
   This means that each district can organically choose to adopt Liquid Democracy when they decide, rather than it being mandated top-down through Constitutional amendments.
 

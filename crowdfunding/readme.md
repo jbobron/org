@@ -34,17 +34,17 @@ But lately, as our country has become incredibly polarized, democracy has become
 
 In the middle of the Civil War, when our country was as divided as it's ever been, President Abraham Lincoln said that it was Americans' responsibility to ensure that "*government of the people, by the people, for the people, shall not perish from the earth*".
 
-Inspired by this, Liquid Democracy gives voters the option to vote directly on any piece of legislation, if they so choose.
+Inspired by this, Liquid Democracy gives voters the option to vote directly on any piece of legislation, if they so choose. Real choice, direct, by the people.
 
 <div style="text-align:center"><img src="images/legislation.png" width="430"  /></div>
 
-But realistically, who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
+But really, who has time for that? At large scales, Representative Democracy is a key innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
 
-And so Liquid Democracy lets you pick other people to vote on your behalf too. But an important difference is that you're no longer stuck picking from just a few choices on a ballot. Instead, you can pick *anyone* who lives in your district. Anyone you already know and trust. If you could pick anyone to make policy decisions — and they don't even have to quit their jobs — who might you choose? With your permission, they can now vote on your behalf.
+And so Liquid Democracy lets you pick other people who can vote on your behalf. But an important difference is that you're no longer stuck picking from just a few choices on a ballot. Instead, you can pick *anyone* who lives in your district. Anyone you already know and trust. If you could pick anyone to make policy decisions — and they don't even have to quit their jobs — who might you choose? With your permission, they can now represent you.
 
 <!-- ![](wireframe-of-picking-a-delegate.png) -->
 
-This is because representation in Liquid Democracy works differently than how we currently elect people. Instead of voting as a district on just a single Congressperson to try to "represent" the interests of nearly a million people, Liquid Democracy lets each person come to their own conclusion about who is best to represent them.
+This is because representation in Liquid Democracy works differently than how we currently elect people. Instead of voting as a district on just a single Congressperson to try to "represent" the interests of nearly a million people, Liquid Democracy lets each person come to their own conclusion about who is best for them.
 
 ### No more elections
 
@@ -62,7 +62,7 @@ You can play with this live simulation we've created to see first hand just how 
 
 ### Real accountability
 
-As an individual, you're now given many more wise people to pick as your representatives. There's another major change as well: you can change your delegation at any time, just as easy as unfollowing someone from a social network. If your representative promises one thing but acts differently, rather than waiting 4 years, you can simply take back your vote right there.
+As an individual, you're now given many more wise people to pick from. There's another major change as well: you can change your delegation at any time, just as easy as unfollowing someone from a social network. If your delegate votes differently than you anticipated, change it then, not 4 years later.
 
 In a Liquid Democracy, we no longer have to worry about "bad politicians get elected by good people who don't vote".
 
@@ -70,7 +70,7 @@ In a Liquid Democracy, we no longer have to worry about "bad politicians get ele
 
 If you want to sit back and leave your vote on autopilot, you can do that.
 
-If you want to be more active to curate your political representative, you can do that too. You could even go so far as to vote directly on every piece of legislation, if that's you.
+If you want to be more active to vet your political representative, you can do that too. You could even go so far as to vote directly on every piece of legislation, if that's you.
 
 Liquid Democracy gives each individual the freedom to choose their personal balance between convenient representation and direct involvement.
 
@@ -78,7 +78,7 @@ Liquid Democracy gives each individual the freedom to choose their personal bala
 
 ## What about the other functions of government?
 
-Liquid Democracy is primarily concerned with creating legislation. It doesn't directly change the mechanics of the Executive or Judicial branches of government, or public services like fire departments and libraries. We deeply believe in the wisdom of balances of power.
+We are focused on reforming the legislative process, not directly changing the mechanics of the Executive or Judicial branches of government, or public services like fire departments and libraries. We respect the wisdom of the 3-way balance of power.
 
 ## How can we bring this to our real-world politics?
 
@@ -134,7 +134,7 @@ We'd also like to create a public challenge to strengthen this. The idea is that
 
 Using the innovation of a blockchain from [the open-source and decentralized Bitcoin system](https://bitcoin.org/en/innovation#trust), we can publish a vote to a public record that can't be edited. The vote itself can be listed alongside a secret that only the voter knows, but without their name, so that their privacy can still be protected.
 
-This lets any voter go and ensure that their vote was entered and counted correctly, at any time.
+This lets any voter ensure that their vote was entered and counted correctly, at any time.
 
 ## Where will it start?
 
@@ -160,8 +160,8 @@ This project is about so much more than just our personal political opinions, bu
 
 - David was a part of Larry Lessig's Rootstrikers and Mayday.us movements for fundamental campaign finance reform.
 - Jared and Rohan dedicated hundreds of hours to promote Bernie Sanders, a progressive candidate with decades of political experience independent of the two party system.
-- Rohan worked with the Liberation Technology program at Stanford to deploy an SMS-based technology to ~200k people in India to help them participate in democracy more easily.
+- Rohan worked with the Liberation Technology program at Stanford to deploy an SMS-based technology to 200,000 people in India to help them participate in democracy more easily.
 - David has helped campaign for progressive immigration reform to double-down on America's incredible talent.
 - Rohan worked at AirJaldi, a rural mesh internet provider in the Himalayas, to help the Tibetan government-in-exile communicate effectively and securely with the rest of the world.
 - David advised a team of state lawmakers to bring Equity Crowdfunding to economically disadvantaged areas in Texas to boost small business entrepreneurship.
-- Rohan was a Samasource fellow in India, providing digital work for women, children and refugees.
+- Rohan was a Samasource fellow in India, providing digital work for women, children, and refugees.

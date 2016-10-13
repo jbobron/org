@@ -36,7 +36,7 @@ In the middle of the Civil War, when our country was as divided as it's ever bee
 
 Inspired by this, Liquid Democracy gives voters the option to vote directly on any piece of legislation, if they so choose.
 
-<img src="images/legislation.png" width="487"  />
+<div style="text-align:center"><img src="images/legislation.png" width="487"  /></div>
 
 But practically speaking, who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
 
@@ -86,15 +86,15 @@ Liquid Democracy will take 3 requirements:
 
   ***Step 1*** is building the technology that enables our sophisticated digital delegation system. This needs to be easy to use, widely accessible, trustable, and secure. This is underway, and if you have skills in this area, we'd love for [you to join us](https://github.com/liquidvote).
 
-![](images/code.jpg)
+  <div style="text-align:right"><img src="images/code.jpg" width="487"  /></div>
 
   ***Step 2*** is reaching a critical mass of citizens interested in a better way of doing politics. We've started this on a limited scale, and you can join too at https://join.liquid.vote.
 
-![](images/critical-mass.png)
+  <div style="text-align:right"><img src="images/critical-mass.png" width="487"  /></div>
 
   ***Step 3*** is where it begins to have a real-world impact. We'll need to elect new Liquid Democracy Candidates to legislative office, tasked with one job only: to vote on each and every bill exactly according to their district's wishes.
 
-<img src="images/elected-leaders.jpg" width=500 />
+<div style="text-align:right"><img src="images/elected-leaders.jpg" width=500 /></div>
 
   This means that each district can organically choose to adopt Liquid Democracy when they decide, rather than it being mandated top-down through Constitutional amendments.
 
@@ -128,7 +128,7 @@ Trustable identity in digital systems is an evolving area of innovation. There h
 
 ### How can a voter trust their vote was counted correctly?
 
-<img src="images/blockchain.jpg" width=700 />
+<div style="text-align:center"><img src="images/blockchain.jpg" width=700 /></div>
 
 Using the innovation of a blockchain from [the open-source and decentralized Bitcoin system](https://bitcoin.org/en/innovation#trust), we can publish a vote to a public record that can't be edited. The vote itself can be listed alongside a secret that only the voter knows, but without their name, so that their privacy can still be protected.
 

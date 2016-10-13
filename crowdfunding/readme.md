@@ -32,13 +32,13 @@ But lately, as our country has become incredibly polarized, democracy has become
 
 ### A Liquid Democracy works differently.
 
-As Abraham Lincoln immortalized, it is Americans' responsibility to ensure that "*government of the people, by the people, for the people, shall not perish from the earth*".
+In the middle of the Civil War, when our country was as divided as it's ever been, President Abraham Lincoln said that it was Americans' responsibility to ensure that "*government of the people, by the people, for the people, shall not perish from the earth*".
 
-And so as a start, voters are given the option to vote directly on any piece of legislation, if they so choose.
+Inspired by this, Liquid Democracy gives voters the option to vote directly on any piece of legislation, if they so choose.
 
 <img src="images/legislation.png" width="487"  />
 
-But who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
+But practically speaking, who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
 
 And so Liquid Democracy lets you pick other people to vote on your behalf too. But an important difference is that you're no longer stuck picking from just a few choices on a ballot. Instead, you can pick *anyone* who lives in your district. Anyone you already know and trust. If you could pick anyone to make policy decisions — and they don't even have to quit their jobs — who might you choose? With your permission, they can now vote on your behalf.
 

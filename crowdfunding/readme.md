@@ -128,7 +128,7 @@ Trustable identity in digital systems is an evolving area of innovation. There h
 
 ### How can a voter trust their vote was counted correctly?
 
-Using the innovation of a blockchain from [the open-source and decentralized Bitcoin system](https://bitcoin.org/en/innovation), we can publish a vote to a public record that can't be edited. The vote itself can be listed alongside a secret that only the voter knows, but without their name, so that their privacy can still be protected.
+Using the innovation of a blockchain from [the open-source and decentralized Bitcoin system](https://bitcoin.org/en/innovation#trust), we can publish a vote to a public record that can't be edited. The vote itself can be listed alongside a secret that only the voter knows, but without their name, so that their privacy can still be protected.
 
 This lets any voter go and ensure that their vote was entered and counted correctly, at any time.
 

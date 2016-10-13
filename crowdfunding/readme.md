@@ -144,11 +144,11 @@ But our true goal, what really motivates us, is to make inroads at the national 
 
 ## When?
 
+Our plan is to elect a San Francisco city supervisor in 2018.
+
 We like to move fast, and we'd like to bring Liquid Democracy to life as soon as possible. But it seems unrealistic to set expectations sooner than 2 years from now. If it's really a good idea, it should be around for decades or more, and we don't want to compromise that by setting unrealistic expectations and taking on more than our resources allow.
 
 Quality software systems aren't created overnight. Political movements rarely appear out of nowhere. And legislative elections only come once a year, and in most places every other year. (If you or someone you know is a candidate or elected official who'd like to pilot Liquid Democracy to jumpstart the process, please do [reach out](mailto:info@liquid.vote).)
-
-Our plan is to elect a San Francisco city supervisor in 2018.
 
 ## What campaigns and civic initiatives have we been a part of?
 

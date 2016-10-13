@@ -38,7 +38,7 @@ Inspired by this, Liquid Democracy gives voters the option to vote directly on a
 
 <div style="text-align:center"><img src="images/legislation.png" width="487"  /></div>
 
-But practically speaking, who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
+But realistically, who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
 
 And so Liquid Democracy lets you pick other people to vote on your behalf too. But an important difference is that you're no longer stuck picking from just a few choices on a ballot. Instead, you can pick *anyone* who lives in your district. Anyone you already know and trust. If you could pick anyone to make policy decisions — and they don't even have to quit their jobs — who might you choose? With your permission, they can now vote on your behalf.
 

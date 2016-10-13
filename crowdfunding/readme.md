@@ -74,7 +74,7 @@ If you want to be more active to curate your political representative, you can d
 
 Liquid Democracy gives each individual the freedom to choose their personal balance between convenient representation and direct involvement.
 
-![You decide between convenience vs authenticity for your political voice](images/convenience-vs-authenticity.png)
+<div style="text-align:center"><img src="images/convenience-vs-authenticity.png" width=600 /></div>
 
 ## What about the other functions of government?
 

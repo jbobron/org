@@ -36,7 +36,7 @@ In the middle of the Civil War, when our country was as divided as it's ever bee
 
 Inspired by this, Liquid Democracy gives voters the option to vote directly on any piece of legislation, if they so choose.
 
-<div style="text-align:center"><img src="images/legislation.png" width="487"  /></div>
+<div style="text-align:center"><img src="images/legislation.png" width="430"  /></div>
 
 But realistically, who has time for that? At large scales, Representative Democracy is an important innovation, for good reason. It's very hard to stay on top of all the ins and outs of policy, and the quality of decision making suffers.
 

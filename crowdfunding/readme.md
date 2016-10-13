@@ -18,7 +18,7 @@ But we've also come up against more systemic problems. And we're not alone. Cong
 
 We've felt it too. Sometimes it feels really frustrating. But rather than being paralyzed with despair, we're working to offer a more constructive alternative.
 
-And that's how we came to this project, Liquid Democracy.
+And that's how we came to Liquid Democracy.
 
 ## What is Liquid Democracy?
 

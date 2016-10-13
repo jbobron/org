@@ -120,13 +120,13 @@ No software is ever free of defects, but as Linus Torvalds, creator of the Linux
 
 ### How are individual identities verified? How can we ensure only one-vote-per-person?
 
+As a start, we can adopt existing voting laws to register voters, validating them only after showing proof of residency.
+
 We plan to start on the city level initially, so we have the flexibility of in-person registration if necessary.
 
-As a start, we can adopt existing voting laws to register voters, validating them only after they show proof of residency.
+Trustable identity in digital systems is an evolving area of innovation. There have been many many ideas in this space, a dozen of which have [been collected here](https://github.com/liquidvote/liquid-api/issues/7#issuecomment-248069850). Many other innovators continue to come up with novel solutions.
 
 We'd also like to create a public challenge to strengthen this. The idea is that if anyone is able to create multiple validated accounts, prove it and help us patch the hole by responsibly disclosing the method. And get rewarded with a few thousand dollars. This encourages well-intentioned people to help us all strengthen the system together.
-
-Trustable identity in digital systems is an evolving area of innovation. There have been many many ideas in this space, a dozen of which have [been collected here](https://github.com/liquidvote/liquid-api/issues/7#issuecomment-248069850). Many other innovators continue to come up with novel solutions.
 
 ### How can a voter trust their vote was counted correctly?
 

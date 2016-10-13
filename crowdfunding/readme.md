@@ -70,7 +70,7 @@ In a Liquid Democracy, we no longer have to worry about "bad politicians get ele
 
 If you want to sit back and leave your vote on autopilot, you can do that.
 
-If you want to be more active to curate your political representative, you can do that too. You could even go so far as to vote directly on each piece of legislation, if that's you.
+If you want to be more active to curate your political representative, you can do that too. You could even go so far as to vote directly on every piece of legislation, if that's you.
 
 Liquid Democracy gives each individual the freedom to choose their personal balance between convenient representation and direct involvement.
 

@@ -1,5 +1,7 @@
 # Common Criticisms of Liquid Democracy
 
+A list of commonly brought up objections to this project. Each should have a quick response, and can link to a longer answer.
+
 ### This is not a technology problem
 
 

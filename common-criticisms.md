@@ -51,3 +51,18 @@ A list of commonly brought up objections to this project. Each should have a qui
 
 
 ### Why waste your time on this? There's no money to be made
+
+
+### What is the first thing you plan on doing after getting funded?
+
+
+### How do I know my vote is actually counted?
+
+
+### This seems great in an ideal world, but there is no way this could actually happen
+
+
+### How would I benefit? What do I get out of it?
+
+
+### How do you start changing a government that hasn’t changed its constitution/amendments since its inception?
